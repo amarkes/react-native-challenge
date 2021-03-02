@@ -7,10 +7,18 @@
 1. publicar seu teste no github
 1. usar as boas praticas e manter organização nos projetos
 
-## Projeto React-native / Angular
-- [ ] criar uma lista de post
-- [ ] criar um botao de adicionar/editar post
-- [ ] usar Hooks e Context API no caso do react-native
+## Projeto React-native
+- [ ] usar Hooks e Context API
+ - criar uma lista de usario contendo Nome e Email;
+ - botao de adicionar/editar usuario, que irá abrir um formulario;
+- [ ] após criar lita de usario vamos testar suas habilidades com api
+- [ ] criar uma lista de post e implementar serviço das apis abaixo
+- [ ] criar um botao de adicionar/editar post e implementar serviço das apis abaixo
+
+## Projeto Angular
+- [ ] criar uma lista de post e implementar serviço das apis abaixo
+- [ ] criar um botao de adicionar/editar post e implementar serviço das apis abaixo
+
 
 
 ## componente de post
