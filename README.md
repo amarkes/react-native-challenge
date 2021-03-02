@@ -21,7 +21,7 @@
 
 
 
-## componente de post
+## serviços de post
 - [ ] fazer a instalação do axios
 - [ ] criar serviços (pode conferir a documentação [aqui](https://jsonplaceholder.typicode.com/guide/)
 + criar um método para pegar um único post (get)
